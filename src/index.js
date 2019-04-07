@@ -2,6 +2,7 @@
 
 const rulesConfig = {
   'check-insert-calls': 2,
+  'check-find-limit': 2,
   'check-update-calls': 2,
   'check-query-calls': 2,
   'check-remove-calls': 2,
